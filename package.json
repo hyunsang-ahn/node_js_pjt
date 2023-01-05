@@ -1,0 +1,22 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyunsang-ahn/node_js_pjt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyunsang-ahn/node_js_pjt/issues"
+  },
+  "homepage": "https://github.com/hyunsang-ahn/node_js_pjt#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
